@@ -1,6 +1,6 @@
 # My GitHub Learning Journey
 
-This README documents what I have learned about using **Git** and **GitHub**.  
+This README document will illustrate what I have learned about using **Git** and **GitHub**.  
 It covers common commands, workflows for pushing, pulling, rebasing, and reverting changes.
 
 ---
@@ -105,4 +105,3 @@ git push origin main
 - Always **pull/rebase before pushing** to avoid conflicts.
 
 ---
-✅ **Now I know how to manage code using Git and GitHub effectively!**
